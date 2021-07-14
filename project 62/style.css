@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+
+    background-color: aqua;
+}
+
+#myCarousel img {
+
+    height: 300px;
+    margin-top: 35p;
+}
+
+.Carousel-inner p{
+    
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: forestgreen;
+    font-size: 20px;
+}
